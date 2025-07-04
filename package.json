@@ -2,7 +2,7 @@
   "name": "chai-backend-two",
   "version": "1.0.0",
   "description": "a backend at chai our code channel",
- "type": "module",
+  "type": "module",
   "keywords": [
     "javascript",
     "backend",
@@ -15,6 +15,7 @@
     "dev": "nodemon src/index.js"
   },
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
   }
 }
